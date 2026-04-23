@@ -60,7 +60,7 @@ The app will start at `http://localhost:8080`
 {
   "customerName":"Test",
   "customerMobile":"09081234567",
-  "customerEmail":test12345@gmail.com,
+  "customerEmail": "test12345@gmail.com",
   "address1":"test",
   "address2":"test",
   "accountType": "S"
