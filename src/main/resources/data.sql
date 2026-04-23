@@ -10,9 +10,9 @@ VALUES
 INSERT INTO accounts (account_number, account_type, available_balance, customer_number)
 VALUES
     (10001, 'Savings',  15000.00, 10000001),
-    (10001, 'Checking',  8000.00, 10000001),
     (10002, 'Checking',  8000.00, 10000001),
-    (10003, 'Savings',  25000.00, 10000002),
-    (10004, 'Savings',   5000.00, 10000003),
-    (10005, 'Checking', 12000.00, 10000004);
+    (10003, 'Checking',  8000.00, 10000002),
+    (10004, 'Savings',  25000.00, 10000003),
+    (10005, 'Savings',   5000.00, 10000004),
+    (10006, 'Checking', 12000.00, 10000005);
 
